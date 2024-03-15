@@ -1,0 +1,12 @@
+
+]	java:S125("<This block of commented-out lines of code should be removed.(óÊİ¢ùÿÿÿÿ8ŠÄĞİâ1
+o
+java:S6204;"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8¥ÄĞİâ1
+T
+java:S1611:"2Remove the parentheses around the "user" parameter(ı·€íùÿÿÿÿ8©ÄĞİâ1
+g
+java:S1612:"EReplace this lambda with method reference 'this::convertEntityToDto'.(ı·€íùÿÿÿÿ8³ÄĞİâ1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8åÄĞİâ1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8æÄĞİâ1
